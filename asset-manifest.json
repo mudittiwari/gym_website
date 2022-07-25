@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/gym-website/static/css/main.32a6a721.css",
-    "main.js": "/gym-website/static/js/main.92ceb228.js",
-    "static/media/herobg.jpg": "/gym-website/static/media/herobg.f74673cd18e012e7d214.jpg",
-    "static/media/trainerone.jpg": "/gym-website/static/media/trainerone.962444a692561180bc55.jpg",
-    "static/media/trainertwo.jpg": "/gym-website/static/media/trainertwo.1b5910cc9a4ff5b06b51.jpg",
-    "static/media/cardio.jpg": "/gym-website/static/media/cardio.8f42c7aee9b042906002.jpg",
-    "static/media/aerobics.jpg": "/gym-website/static/media/aerobics.c351c05d040c2cf671e8.jpg",
-    "static/media/yoga.jpg": "/gym-website/static/media/yoga.b0ae32d2ce24d3eeb471.jpg",
-    "static/media/Plain-Regular.woff": "/gym-website/static/media/Plain-Regular.f50496862ba240ab24e0.woff",
-    "static/media/Plain-Light.woff": "/gym-website/static/media/Plain-Light.cb5e826099f5475c3ad1.woff",
-    "static/media/Plain-Bold.woff": "/gym-website/static/media/Plain-Bold.e419af21470df945e7c7.woff",
-    "static/media/Plain-Regular.woff2": "/gym-website/static/media/Plain-Regular.9f3e0107301bf0687c09.woff2",
-    "static/media/Plain-Light.woff2": "/gym-website/static/media/Plain-Light.6c87fd5544bd1151c6fe.woff2",
-    "static/media/Plain-Bold.woff2": "/gym-website/static/media/Plain-Bold.524d31d31ac4da55c978.woff2",
-    "index.html": "/gym-website/index.html",
-    "main.32a6a721.css.map": "/gym-website/static/css/main.32a6a721.css.map",
-    "main.92ceb228.js.map": "/gym-website/static/js/main.92ceb228.js.map"
+    "main.css": "/gym_website/static/css/main.329cd34a.css",
+    "main.js": "/gym_website/static/js/main.ad26b467.js",
+    "static/media/herobg.jpg": "/gym_website/static/media/herobg.f74673cd18e012e7d214.jpg",
+    "static/media/trainerone.jpg": "/gym_website/static/media/trainerone.962444a692561180bc55.jpg",
+    "static/media/trainertwo.jpg": "/gym_website/static/media/trainertwo.1b5910cc9a4ff5b06b51.jpg",
+    "static/media/cardio.jpg": "/gym_website/static/media/cardio.8f42c7aee9b042906002.jpg",
+    "static/media/aerobics.jpg": "/gym_website/static/media/aerobics.c351c05d040c2cf671e8.jpg",
+    "static/media/yoga.jpg": "/gym_website/static/media/yoga.b0ae32d2ce24d3eeb471.jpg",
+    "static/media/Plain-Regular.woff": "/gym_website/static/media/Plain-Regular.f50496862ba240ab24e0.woff",
+    "static/media/Plain-Light.woff": "/gym_website/static/media/Plain-Light.cb5e826099f5475c3ad1.woff",
+    "static/media/Plain-Bold.woff": "/gym_website/static/media/Plain-Bold.e419af21470df945e7c7.woff",
+    "static/media/Plain-Regular.woff2": "/gym_website/static/media/Plain-Regular.9f3e0107301bf0687c09.woff2",
+    "static/media/Plain-Light.woff2": "/gym_website/static/media/Plain-Light.6c87fd5544bd1151c6fe.woff2",
+    "static/media/Plain-Bold.woff2": "/gym_website/static/media/Plain-Bold.524d31d31ac4da55c978.woff2",
+    "index.html": "/gym_website/index.html",
+    "main.329cd34a.css.map": "/gym_website/static/css/main.329cd34a.css.map",
+    "main.ad26b467.js.map": "/gym_website/static/js/main.ad26b467.js.map"
   },
   "entrypoints": [
-    "static/css/main.32a6a721.css",
-    "static/js/main.92ceb228.js"
+    "static/css/main.329cd34a.css",
+    "static/js/main.ad26b467.js"
   ]
 }
