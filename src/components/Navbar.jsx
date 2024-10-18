@@ -6,7 +6,7 @@ function Navbar() {
             <nav className="navbar navbar-expand-lg fixed-top">
                 <div className="container-fluid">
 
-                    <a className="navbar-brand" href="index.html">Gymso Fitness</a>
+                    <a className="navbar-brand" href="index.html">Fitness 247</a>
 
                     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
                         aria-label="Toggle navigation">

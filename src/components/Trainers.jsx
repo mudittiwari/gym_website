@@ -9,7 +9,7 @@ function Trainers()
                     <div className="row">
 
                             <div className="mt-lg-5 mb-lg-0 mb-4 col-lg-5 col-md-10 mx-auto col-12">
-                                <h2 className="mb-4" data-aos="fade-up" data-aos-delay="300">Hello, we are Gymso</h2>
+                                <h2 className="mb-4" data-aos="fade-up" data-aos-delay="300">Hello, we are Fitness 247</h2>
 
                                 <p data-aos="fade-up" data-aos-delay="400">You are NOT allowed to redistribute this HTML template downloadable ZIP file on any template collection site. You are allowed to use this template for your personal or business websites.</p>
 
