@@ -11,7 +11,7 @@ function Herosection() {
 
                                 <h6 data-aos="fade-up" data-aos-delay="300">new way to build a healthy lifestyle!</h6>
 
-                                <h1 className="text-white" data-aos="fade-up" data-aos-delay="500">Upgrade your body at Fitness 247 Fitness</h1>
+                                <h1 className="text-white" data-aos="fade-up" data-aos-delay="500">Upgrade your body at Fitness 247</h1>
 
                                 <a href="#feature" className="btn custom-btn border-0 mt-3 fw-bold" data-aos="fade-up" data-aos-delay="600" id="getstartedbutton">Get started</a>
 
